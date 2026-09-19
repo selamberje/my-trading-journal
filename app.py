@@ -2,7 +2,7 @@ from datetime import datetime
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-from streamlit_gsheets import GSheetsConnection
+from st_gsheets_connection import GSheetsConnection
 
 # ---------------------------------------------------------
 # 1. TETAPAN HALAMAN (RESPONSIF HP & LAPTOP)
