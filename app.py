@@ -18,7 +18,7 @@ st.title("📊 PRO TRADING JOURNAL DASHBOARD")
 
 # Sambungan ke Google Sheets (Ganti URL ini dengan URL Google Sheet anda)
 GSHEET_URL = (
-    "https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID_HERE/edit#gid=0"
+    "https://docs.google.com/spreadsheets/d/1DvB3Mo5WOi91VshDxOsAR08tTDbwaMkgDHx8CXrf2x4/edit#gid=0"
 )
 
 conn = st.connection("gsheets", type=GSheetsConnection)
